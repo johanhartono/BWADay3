@@ -1,4 +1,4 @@
-import 'package:bwadesigntocodeday3/first_signin.dart';
+import 'package:bwadesigntocodeday3/second_signin.dart';
 import 'package:flutter/material.dart';
 
 
@@ -15,7 +15,7 @@ class SevenDays extends StatelessWidget {
     return const MaterialApp(
         debugShowCheckedModeBanner: false,
         title: 'Seven Days Flutter Demo',
-        home: FirstSignIn(
+        home: SecondSignIn(
        
         )
         );
