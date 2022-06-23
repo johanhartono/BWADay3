@@ -14,7 +14,7 @@ class FirstSignIn extends StatelessWidget {
           padding: const EdgeInsets.only(top: 70.0, left: 40, right: 40),
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
-            children: [
+            children: <Widget> [
               Image.asset(
                 'assets/coin_icon.png',
                 width: 50,
